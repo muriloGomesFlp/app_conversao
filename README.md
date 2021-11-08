@@ -1,6 +1,6 @@
 # app_conversao
 
-A new Flutter project.
+A new Flutter project and a Fluterando class.
 
 ## Getting Started
 
